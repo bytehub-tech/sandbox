@@ -1,6 +1,19 @@
 # sandbox
 
-Updating Sandbox by AKASH
+Applied rule for everyone **NOT PUSH TO MASTER** 
 
-GIT is a version control system.
+Create a branch 
 
+Do your changes
+
+Commit to your branch
+
+Push to your branch
+
+Raise **PULL REQUEST**
+
+After Reviewers approval 
+
+MERGE your branch into **master**
+
+Now, You may delete your branch
